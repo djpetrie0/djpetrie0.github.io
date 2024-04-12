@@ -24,7 +24,9 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Friend \ Homie \ Brain?"
+  bio              : "Friend \ 
+                        Homie \ 
+                        Brain?"
   location         : "Earth"
   employer         : "Red Brick University"
   uri              : # URL
