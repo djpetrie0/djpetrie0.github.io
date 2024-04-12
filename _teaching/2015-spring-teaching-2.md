@@ -1,20 +1,27 @@
 ---
-title: "Teaching experience 2"
+title: "Graduate Lab Instructor Experience"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/Graduate-Lab-Instructor-Experience
+venue: "The Pennsylvania State University, Human Development and Family Studies"
+date: 2018 - 2023
+location: "University Park, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+List of experience as a Graduate Lab Instructor.
 
-Heading 1
+The Helping Relationship
 ======
+Under Dr. Jennifer Crissman-Ishler: Spring 2023
 
-Heading 2
+The Helping Relationship
 ======
+Under Dr. Jennifer Crissman-Ishler: Fall 2022
 
-Heading 3
+The Helping Relationship
 ======
+Under Dr. Steffany Fredman: Spring 2019
+
+Empirical Inquiry in Human Development
+======
+Under Dr. Hobart Cleveland: Spring 2018
