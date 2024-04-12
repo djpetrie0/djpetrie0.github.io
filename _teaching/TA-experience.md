@@ -16,7 +16,7 @@ Under Dr. Zachary Fisher: Spring 2023
 
 Adolescent Development
 ======
-Under Dt. Mayra Bamaca-Colbert: Spring 2020
+Under Dr. Mayra Bamaca-Colbert: Spring 2020
 
 Adolescent Development
 ======
