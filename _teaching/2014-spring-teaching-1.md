@@ -1,20 +1,31 @@
 ---
-title: "Teaching experience 1"
+title: "TA Experience"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/TA-experience
+venue: "The Pennsylvania State University, Human Development and Family Studies"
+date: 2017 - 2023
+location: "University Park, PA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+List of courses I was a teaching assistant for.
 
-Heading 1
+Strategies for Data Analysis in Human Development
 ======
+Under Dr. Zachary Fisher: Spring 2023
 
-Heading 2
+Adolescent Development
 ======
+Under Dt. Mayra Bamaca-Colbert: Spring 2020
 
-Heading 3
+Adolescent Development
 ======
+Under Dr. Sarah Kollat: Fall 2019
+
+Infant and Child Development
+======
+Under Dr. Sarah Kollat: Fall 2018
+
+Introduction to Human Development and Family Studies
+======
+Under Dr. Molly Countermine: Fall 2017
