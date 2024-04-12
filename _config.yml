@@ -21,7 +21,7 @@ repository               : "djpetrie0.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Daniel Petrie.png"
+  avatar           : "Daniel_Petrie.png"
   name             : "Daniel J. Petrie"
   pronouns         : # example: "she/her"  
   bio              : "Postdoc"
