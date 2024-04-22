@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "All Aboard!!!"
+title: "Under Construction"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,9 @@ redirect_from:
 
 Sometimes I look at brains, other times I look at lines going up and down. Sometimes I do both at the same time.
 
-**ADD STUFF**
+**Under Construction**
 ======
-Hell yeah brother
+About me
 
 Getting started
 ======
